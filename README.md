@@ -1,1 +1,1 @@
-Obrigado pela oportunidade de estar aprendendo lógica de programação, me chamo Heitor Felipe e por sua causa irei mergulhar no mundo da programação.
+Agradeço pela valiosa oportunidade de adentrar ao universo da **_lógica de programação_**. Sou *Heitor Felipe* e, graças a você, estou prestes a explorar as profundezas fascinantes do mundo da programação.
